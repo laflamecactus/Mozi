@@ -1,0 +1,14 @@
+/Users/patakipeter/Documents/ELTE2/OEP/NAGYBEAD/Implementáció/Mozi/bin/Debug/net9.0/Mozi
+/Users/patakipeter/Documents/ELTE2/OEP/NAGYBEAD/Implementáció/Mozi/bin/Debug/net9.0/Mozi.deps.json
+/Users/patakipeter/Documents/ELTE2/OEP/NAGYBEAD/Implementáció/Mozi/bin/Debug/net9.0/Mozi.runtimeconfig.json
+/Users/patakipeter/Documents/ELTE2/OEP/NAGYBEAD/Implementáció/Mozi/bin/Debug/net9.0/Mozi.dll
+/Users/patakipeter/Documents/ELTE2/OEP/NAGYBEAD/Implementáció/Mozi/bin/Debug/net9.0/Mozi.pdb
+/Users/patakipeter/Documents/ELTE2/OEP/NAGYBEAD/Implementáció/Mozi/obj/Debug/net9.0/Mozi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/patakipeter/Documents/ELTE2/OEP/NAGYBEAD/Implementáció/Mozi/obj/Debug/net9.0/Mozi.AssemblyInfoInputs.cache
+/Users/patakipeter/Documents/ELTE2/OEP/NAGYBEAD/Implementáció/Mozi/obj/Debug/net9.0/Mozi.AssemblyInfo.cs
+/Users/patakipeter/Documents/ELTE2/OEP/NAGYBEAD/Implementáció/Mozi/obj/Debug/net9.0/Mozi.csproj.CoreCompileInputs.cache
+/Users/patakipeter/Documents/ELTE2/OEP/NAGYBEAD/Implementáció/Mozi/obj/Debug/net9.0/Mozi.dll
+/Users/patakipeter/Documents/ELTE2/OEP/NAGYBEAD/Implementáció/Mozi/obj/Debug/net9.0/refint/Mozi.dll
+/Users/patakipeter/Documents/ELTE2/OEP/NAGYBEAD/Implementáció/Mozi/obj/Debug/net9.0/Mozi.pdb
+/Users/patakipeter/Documents/ELTE2/OEP/NAGYBEAD/Implementáció/Mozi/obj/Debug/net9.0/Mozi.genruntimeconfig.cache
+/Users/patakipeter/Documents/ELTE2/OEP/NAGYBEAD/Implementáció/Mozi/obj/Debug/net9.0/ref/Mozi.dll
